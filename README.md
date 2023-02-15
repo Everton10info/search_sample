@@ -1,16 +1,8 @@
-# search_poc
+# Search Users
 
-A new Flutter project.
 
-## Getting Started
+Projeto feito em Flutter, um exemplo de código implementado para fazer buscas em listas.
+* Usado dados da api [Json Placeholder](https://jsonplaceholder.typicode.com/) e o como cliente http o pacote [HTTP](https://pub.dev/packages/http)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
